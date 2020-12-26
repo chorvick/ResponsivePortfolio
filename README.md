@@ -1,9 +1,9 @@
 # ResponsivePortfolio
 
-A a mobile responsive portfolio created using html and the Bootstrap CSS Framework.
+A mobile responsive portfolio created using html and the Bootstrap CSS Framework.
 
 
-Basic requirements:
+Basic requirements of assignment:
 
 Create the following files files: index.html, portfolio.html and contact.html.
 
@@ -15,6 +15,6 @@ A responsive layout
 
 Responsive images
 
-The Bootstrap portfolio should minimize the use of media queries.
+inimize the use of media queries.
 
-Screenshots are provided as a reference in the Assets/Images folder. Your app does not need to be exactly like the images. Use Bootstrap to create a similar, responsive layout.
+Screenshots were provided as a reference.  
