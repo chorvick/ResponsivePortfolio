@@ -15,6 +15,6 @@ A responsive layout
 
 Responsive images
 
-inimize the use of media queries.
+Minimize the use of media queries.
 
 Screenshots were provided as a reference.  

@@ -1,0 +1,41 @@
+/* setting up specifics to overide how bootstrap displays images */
+
+.card {
+    width:18rem;
+    background: rgb(151, 8, 32);
+  }
+  
+  .grid-container {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      grid-gap: 0;
+      padding: 0px;
+  }
+  
+  img {
+      width: 100%;
+      height: auto;
+      padding: 0px;
+  }
+
+  .card-body {
+       color:rgb(243, 231, 233)
+       
+  }
+
+  .img-thumbnail {
+
+    width: auto;
+    height: auto;
+
+  }
+
+  .card-header {
+
+    color:rgb(243, 231, 233)
+  }
+
+  .card-text {
+
+    text-align: center;
+  }
