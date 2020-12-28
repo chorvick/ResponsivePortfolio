@@ -56,6 +56,22 @@ background-color: rgb(216, 177, 49);
 
     text-align: center;
   }
+/* social media github , linkedin and stack overflow */
+
+  .sidebar h2 {
+    padding-bottom: 20px;
+    margin-bottom: 15px;
+    line-height: 22px;
+    border-bottom: 2px solid #eee;
+  }
+  .social {
+    width: 62px;
+    height: 62px;
+    margin-top: 8px;
+    margin-right: 5px;
+  }
+  
+
 
 /* Footer  */
 
