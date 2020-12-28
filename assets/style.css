@@ -1,8 +1,23 @@
 /* setting up specifics to overide how bootstrap displays images */
 
+* {
+    box-sizing: border-box;
+}
+
+/*  adjust background color of all pages */
+
+body  {
+background-color: rgb(216, 177, 49);
+
+}
+
+
+/* overide color and style on portfolio */
+
 .card {
     width:18rem;
     background: rgb(151, 8, 32);
+    
   }
   
   .grid-container {
@@ -10,11 +25,13 @@
       grid-template-columns: repeat(2, 1fr);
       grid-gap: 0;
       padding: 0px;
+      width: 350px;
+      height: 350px;
   }
   
-  img {
-      width: 100%;
-      height: auto;
+  .img {
+      width: 350px;
+      height: 350px;
       padding: 0px;
   }
 
@@ -39,3 +56,20 @@
 
     text-align: center;
   }
+
+/* Footer  */
+
+
+  #ch , #year  {
+
+    text-align:center
+  }
+
+  footer {
+    position: sticky;
+    color: black;
+    bottom: 2%;
+    margin-top: 18%;
+    clear: both;
+    font-weight: bold;
+}

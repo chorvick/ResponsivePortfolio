@@ -6,7 +6,7 @@
 
     <meta charset="UTF-8">
 
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!--<meta name="viewport" content="width=device-width, initial-scale=1.0"> -->
 
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
@@ -21,14 +21,13 @@
 
     <!-- bootstrap navigation bar-->
 
-    <!--- Navbar --->
-
-    <nav class="navbar navbar-expand-lg navbar-dark bg-dark static-top" style="background-color: #e3f2fd;">
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark static-top">
         <a class="navbar-brand" href="index.html">Cliff Horvick</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive"
             aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
+
         <div class="collapse navbar-collapse" id="navbarResponsive">
             <ul class="navbar-nav ml-auto text-right">
                 <li class="nav-item">
@@ -42,6 +41,7 @@
                 </li>
             </ul>
         </div>
+
     </nav>
 
     <!--- each page has a container and grid --->
@@ -49,51 +49,74 @@
 
     <div class="container">
         <content class="row">
-            <div class="col-md-10">
-                <img src="assets/i.JPG" class="img-thumbnail" alt="picture of a man">
-                <div class="card text-center">
-                    <div class="card-header">
-                        <h2>Cliff Horvick</h2>
-                    </div>
-                    <div class="card-body">
-                        <h4 class="card-title">About Me</h4>
-                        <div class="col-md-12">
-                            <p class="card-text">My name is Cliff Horvick. I am starting a new career as a web
-                                developer.
-                                I presently work in the consumer finance and mortgage business and have for the past
-                                twenty
-                                four
-                                years.
-                                My experience in sales, underwriting, funding, servicing, collection and portfolio
-                                management
-                                for profitability is extensive. I have supervised and trained many successful teams and
-                                from
-                                2004 until 2012
-                                was a Reigional Manager for a major financial organization in the Philadelphia area. I
-                                supervised up
-                                to ten full service offices at once and had staff of over sixty people reporting
-                                directly to
-                                me
-                                and/or my direct reports. As I complete my education as a web developer I will draw from
-                                my
-                                experience and skills learned from my present occupation. As someone with a strong
-                                understanding
-                                of
-                                reading credit reports, modern payment systems, the challenges of meeting customer
-                                expectations
-                                in the age of mobile devices and knowing all aspects of what financial organizations
-                                must
-                                do for compliance and security behind the scenes I will be a web designer who will truly
-                                understand
-                                the needs of my clients and employers.
-                            </p>
-                        </div>
-                    </div>
-                    <div class="card-footer text-muted">
+            <div class="col-md-8" id="mainCard">
+                <div class="Page Start">
 
+                    <h1>About Me</h1>
+                </div>
+
+
+                <div class="row">
+                    <div class="col-md-3">
+                        <img src="assets/i.JPG" class="img-thumbnail" alt="picture of a man">
+                    </div>
+                    <div class="col-md-9">
+                        <p class="card-text">My name is Cliff Horvick. I am starting a new career as a web
+                            developer.
+                            I presently work in the consumer finance and mortgage business and have for the
+                            past
+                            twenty
+                            four
+                            years.
+                            My experience in sales, underwriting, funding, servicing, collection and
+                            portfolio
+                            management
+                            for profitability is extensive. I have supervised and trained many successful
+                            teams
+                            and
+                            from
+                            2004 until 2012
+                            was a Reigional Manager for a major financial organization in the Philadelphia
+                            area.
+                            I
+                            supervised up
+                            to ten full service offices at once and had staff of over sixty people reporting
+                            directly to
+                            me
+                            and/or my direct reports. As I complete my education as a web developer I will
+                            draw
+                            from
+                            my
+                            experience and skills learned from my present occupation. As someone with a
+                            strong
+                            understanding
+                            of
+                            reading credit reports, modern payment systems, the challenges of meeting
+                            customer
+                            expectations
+                            in the age of mobile devices and knowing all aspects of what financial
+                            organizations
+                            must
+                            do for compliance and security behind the scenes I will be a web designer who
+                            will
+                            truly
+                            understand
+                            the needs of my clients and employers.
+                        </p>
                     </div>
                 </div>
             </div>
+        </content>
+    </div>
+    <!--- Footer --->
+    <footer class="footer">
+        <div class="col-md-12">
+            <p id="ch">copyright CH️
+            </p>
+            <p id="year">2020
+            </p>
+        </div>
+    </footer>
 
 
 
