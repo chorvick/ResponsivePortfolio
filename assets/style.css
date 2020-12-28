@@ -15,10 +15,13 @@ background-color: rgb(216, 177, 49);
 /* overide color and style on portfolio */
 
 
+
+
+
 .i1 , .i2 , .i3 , .i4 {
     width: 350px;
     height: 350px;
-}
+    }
 
 .card {
     width:18rem;
@@ -28,7 +31,6 @@ background-color: rgb(216, 177, 49);
   
   .grid-container {
       display: grid;
-      grid-template-columns: repeat(2, 1fr);
       grid-gap: 0;
       padding: 0px;
       width: 350px;
