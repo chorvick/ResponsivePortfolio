@@ -14,6 +14,12 @@ background-color: rgb(216, 177, 49);
 
 /* overide color and style on portfolio */
 
+
+.i1 , .i2 , .i3 , .i4, {
+    width: 25%;
+    height: 25%;
+}
+
 .card {
     width:18rem;
     background: rgb(151, 8, 32);
