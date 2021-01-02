@@ -1,4 +1,4 @@
-/* setting up specifics to overide how bootstrap displays images */
+/* setting up specifics to overide bootstraps displays for a few items */
 
 * {
   box-sizing: border-box;
@@ -12,7 +12,7 @@ body {
 
 /* overide color and style on portfolio */
 
-/* resized images in portfolio - single col, not very responsive ! */
+/* resized images in portfolio - single col, not very responsive !-- need to look into that more - does display well on mobile */
 .i1,
 .i2,
 .i3,
