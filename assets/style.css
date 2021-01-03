@@ -71,7 +71,8 @@ body {
   z-index: 5;
 }
 
-/* Footer -- on main page not behaving */
+/* Footer -- on main page not behaving  --commented out footer since not a requirement for assignment
+-- will rework / reevaluate in future 
 
 #ch,
 #year {
@@ -86,3 +87,4 @@ footer {
   clear: both;
   font-weight: bold;
 }
+     */
