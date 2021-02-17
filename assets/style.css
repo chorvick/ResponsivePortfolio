@@ -71,6 +71,11 @@ body {
   z-index: 5;
 }
 
+#images {
+  width: 650px;
+  height: 650px;
+}
+
 /* Footer -- on main page not behaving  --commented out footer since not a requirement for assignment
 -- will rework / reevaluate in future 
 
