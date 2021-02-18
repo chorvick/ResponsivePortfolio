@@ -21,10 +21,20 @@ body {
   height: 1014 px;
 }
 */
+#i1,
+#i2,
+#i3,
+#i4 {
+  height: 850px;
+  width: 950px;
+  padding: 10px;
+  border: 10px;
+  border: black;
+}
 
 .card-img-top {
-  width: 350px;
-  height: 350px;
+  width: 90%;
+  height: 90%;
 }
 
 .card {
@@ -53,6 +63,11 @@ body {
 
 .card-body {
   color: rgb(243, 231, 233);
+  display: box;
+  grid-gap: 0;
+  padding: 0px;
+  width: 350px;
+  height: 350px;
 }
 
 .card-body2 {
