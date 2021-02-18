@@ -12,10 +12,10 @@ body {
 
 /* overide color and style on portfolio */
 
-/* resized images in portfolio - single col, not very responsive !-- need to look into that more - does display well on mobile */
+/* resized images in portfolio - single col, not very responsive !-- need to look into that more - does display well on m
+.i3,obile */
 .i1,
 .i2,
-.i3,
 .i4 {
   width: 350px;
   height: 350px;
@@ -23,7 +23,7 @@ body {
 
 .card {
   width: 18rem;
-  background: rgb(151, 8, 32);
+  background: rgb(170, 148, 152);
 }
 
 .grid-container {
@@ -72,8 +72,8 @@ body {
 }
 
 #images {
-  width: 650px;
-  height: 650px;
+  width: 950px;
+  height: 950px;
 }
 
 /* Footer -- on main page not behaving  --commented out footer since not a requirement for assignment
