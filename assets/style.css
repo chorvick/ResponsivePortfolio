@@ -12,18 +12,28 @@ body {
 
 /* overide color and style on portfolio */
 
-/* resized images in portfolio - single col, not very responsive !-- need to look into that more - does display well on m
-.i3,obile */
+/* resized images in portfolio - single col, not very responsive !-- need to look into that more - does display well on mobile
+ /* 
+ 
+ /*
 .i1,
 .i2,
+.i3,
 .i4 {
   width: 350px;
   height: 350px;
 }
 
+*/
+
 .card {
   width: 18rem;
   background: rgb(170, 148, 152);
+}
+
+.card2 {
+  width: 18rem;
+  background: rgb(216, 177, 49);
 }
 
 .grid-container {
@@ -42,6 +52,10 @@ body {
 
 .card-body {
   color: rgb(243, 231, 233);
+}
+
+.card-body2 {
+  color: rgb(216, 177, 49);
 }
 
 .img-thumbnail {
