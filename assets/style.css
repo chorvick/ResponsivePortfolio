@@ -123,3 +123,39 @@ footer {
   font-weight: bold;
 }
      */
+@media screen and (max-width: 1080px) {
+  #i1,
+  #i2,
+  #i3,
+  #i4 {
+    height: 350px;
+    width: 350px;
+    padding: 5px;
+    border: 5px;
+    border: black;
+  }
+}
+@media screen and (max-width: 880px) {
+  #i1,
+  #i2,
+  #i3,
+  #i4 {
+    height: 275px;
+    width: 275px;
+    padding: 5px;
+    border: 5px;
+    border: black;
+  }
+}
+@media screen and (max-width: 680px) {
+  #i1,
+  #i2,
+  #i3,
+  #i4 {
+    height: 200px;
+    width: 200px;
+    padding: 5px;
+    border: 5px;
+    border: black;
+  }
+}
