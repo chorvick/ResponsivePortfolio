@@ -7,7 +7,7 @@
 /*  adjust background color of all pages */
 
 body {
-  background-color: rgb(216, 177, 49);
+  background-color: rgb(170, 165, 148);
 }
 
 /* overide color and style on portfolio */
@@ -39,12 +39,12 @@ body {
 
 .card {
   width: 18rem;
-  background: rgb(170, 148, 152);
+  background-color: rgb(170, 165, 148);
 }
 
 .card2 {
   width: 18rem;
-  background: rgb(216, 177, 49);
+  background-color: rgb(170, 165, 148);
 }
 
 .grid-container {
