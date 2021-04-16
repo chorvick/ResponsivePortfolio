@@ -1,20 +1,47 @@
-# ResponsivePortfolio
+# Responsive Portfolio
 
-A mobile responsive portfolio created using html and the Bootstrap CSS Framework.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+## Description
 
-Basic requirements of assignment:
+This page offers a few exaples of coding skills I have learned so far.
 
-Create the following files files: index.html, portfolio.html and contact.html.
+## Table of Contents
 
-Using Bootstrap, develop your portfolio site with the following items:
+[Description](#description)
+[Installation](#installation)
+[Usage](#usage)
+[License](#license)
+[Contribution](#contribution)
+[Tests](#tests)
+[Questions](#questions)
 
-A navbar
+## Installation
 
-A responsive layout
+n/a
 
-Responsive images
+## Usage
 
-Minimize the use of media queries.
+n/a
 
-Screenshots were provided as a reference.  
+## License
+
+This application is covered under the MIT License.
+
+## Contribution
+
+n/a
+
+## Tests
+
+n/a
+
+## Questions
+
+Contact me directly by e mail with any questions.
+
+### Contact Information
+
+Please address inquiries to me on Github: [chorvick](https://github.com/chorvick)
+
+Reach me by e mail at: chorvickprocode@gmail.com
